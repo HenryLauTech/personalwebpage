@@ -37,7 +37,6 @@
     font-size: 20px;
     cursor: pointer;
     color:white;
-    
 }
 
 .navbuttons:active {
@@ -58,7 +57,7 @@
     font-size: 25px;
 }
 
-.smileyface {
+.centered {
     position:absolute;
     top: 50%;
     left: 50%;
@@ -94,8 +93,8 @@
     padding: 10px;
     font-size: 30px;
     text-align: center;
-    width: 300px;
-    height: 400px;
+    width: 250px;
+    height: 250px;
 }
 
 .bannericon {
@@ -106,11 +105,31 @@
     width: 100px;
 }
 
+.imgbox1 {
+    position: absolute;
+    top: 20%;
+    left: 13%;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 25px;
+    height: 600px;
+}
 
+.img {
+    width: 100%;
+    left: 50%;
+    right: 50%;
+}
 
-
-
-
+.imgbox2 {
+    position: absolute;
+    top: 20%;
+    right: 13%;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 25px;
+    height: 600px;
+}
 
 
 
