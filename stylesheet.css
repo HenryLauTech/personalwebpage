@@ -65,16 +65,6 @@
     
 }
 
-.homepagetitle {
-    position:absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    font-size: 50px;
-    color:white;
-}
-
 .gridcontainer {
     display: grid;
     position: absolute;
@@ -105,31 +95,9 @@
     width: 100px;
 }
 
-.imgbox1 {
-    position: absolute;
-    top: 20%;
-    left: 13%;
-    width: 350px;
-    background-color: rgba(255, 255, 255, 0.3);
-    border-radius: 25px;
-    height: 600px;
-}
 
-.img {
-    width: 100%;
-    left: 50%;
-    right: 50%;
-}
 
-.imgbox2 {
-    position: absolute;
-    top: 20%;
-    right: 13%;
-    width: 350px;
-    background-color: rgba(255, 255, 255, 0.3);
-    border-radius: 25px;
-    height: 600px;
-}
+
 
 
 
